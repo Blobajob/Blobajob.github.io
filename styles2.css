@@ -52,7 +52,7 @@ img {
 	height: 103vh;
 	position: relative;
 	margin:0rem 0;
-	background: url('images/Tea.jpg') no-repeat center center/cover;
+	background: url('https://blobajob.github.io/images/Tea.jpg') no-repeat center center/cover;
 }
 
 .showcase::after {
@@ -438,4 +438,3 @@ img {
 	margin-top: 3rem;
 }
 }
-
